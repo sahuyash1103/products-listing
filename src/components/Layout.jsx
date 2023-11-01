@@ -2,22 +2,26 @@ import React from 'react'
 import styled from 'styled-components'
 import Navbar from './Navbar'
 import Sidebar from './Sidebar'
-import Footer from './Footer'
+import ProductList from './main/ProductList'
 
 const PageContainer = styled.div`
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
+display: flex;
+flex-direction: column;
+height: 100vh;
 `;
 
 const Main = styled.main`
-    flex-grow: 1;
-    display: flex;
-    height: 100%;
+display: flex;
+justify-content: left;
+align-items: center;
+width: 100%;
+height: 100%;
+background-color: #646e95;
 `;
 
 const Section = styled.section`
-
+width: 82%;
+height: 100%;
 `;
 
 function Layout() {
@@ -27,10 +31,9 @@ function Layout() {
             <Main>
                 <Sidebar />
                 <Section>
-                    porduct list here
+                    <ProductList />
                 </Section>
             </Main>
-            <Footer />
         </PageContainer>
     )
 }

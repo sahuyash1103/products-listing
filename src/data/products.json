@@ -1,0 +1,1055 @@
+[{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a1"
+  },
+  "title": "iPhone 14 Pro",
+  "images": [
+    "https://www.apple.com/iphone/14/images/iphone14-pro-gold-hero.jpg",
+    "https://www.apple.com/iphone/14/images/iphone14-pro-silver-hero.jpg",
+    "https://www.apple.com/iphone/14/images/iphone14-pro-graphite-hero.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466a"
+    }
+  ],
+  "discription": "The latest and greatest iPhone, with a triple-lens rear camera system, a beautiful OLED display, and a powerful A16 Bionic chip.",
+  "availability": true,
+  "price": 999,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a2"
+  },
+  "title": "Samsung Galaxy S22 Ultra",
+  "images": [
+    "https://www.samsung.com/us/smartphones/galaxy-s22-ultra/images/hero/galaxy-s22-ultra-5g-phantom-black-hero-image.jpg",
+    "https://www.samsung.com/us/smartphones/galaxy-s22-ultra/images/hero/galaxy-s22-ultra-5g-white-hero-image.jpg",
+    "https://www.samsung.com/us/smartphones/galaxy-s22-ultra/images/hero/galaxy-s22-ultra-5g-green-hero-image.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466a"
+    }
+  ],
+  "discription": "The most powerful Samsung Galaxy yet, with a 6.8-inch AMOLED display, a 108MP rear camera system, and a built-in S Pen stylus.",
+  "availability": true,
+  "price": 1199,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a3"
+  },
+  "title": "MacBook Pro 14",
+  "images": [
+    "https://www.apple.com/macbook-pro/14/images/macbook-pro-14-space-gray-hero.jpg",
+    "https://www.apple.com/macbook-pro/14/images/macbook-pro-14-silver-hero.jpg",
+    "https://www.apple.com/macbook-pro/14/images/macbook-pro-14-midnight-hero.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466a"
+    }
+  ],
+  "discription": "The latest MacBook Pro, with a new M1 Pro or M1 Max chip, a Liquid Retina XDR display, and a longer battery life.",
+  "availability": true,
+  "price": 1999,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a4"
+  },
+  "title": "AirPods Pro",
+  "images": [
+    "https://www.apple.com/airpods-pro/images/hero/airpods-pro-hero-light.jpg",
+    "https://www.apple.com/airpods-pro/images/hero/airpods-pro-hero-dark.jpg",
+    "https://www.apple.com/airpods-pro/images/hero/airpods-pro-hero-white.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466a"
+    }
+  ],
+  "discription": "The latest AirPods, with active noise cancellation, a Transparency mode, and a longer battery life.",
+  "availability": true,
+  "price": 249,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a5"
+  },
+  "title": "Apple Watch Series 7",
+  "images": [
+    "https://www.apple.com/apple-watch-series-7/images/hero/apple-watch-series-7-hero-graphite.jpg",
+    "https://www.apple.com/apple-watch-series-7/images/hero/apple-watch-series-7-hero-silver.jpg",
+    "https://www.apple.com/apple-watch-series-7/images/hero/apple-watch-series-7-hero-gold.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466a"
+    }
+  ],
+  "discription": "The latest Apple Watch, with a larger display, a faster processor, and a longer battery life.",
+  "availability": true,
+  "price": 399,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a6"
+  },
+  "title": "Levi's 501 Jeans",
+  "images": [
+    "https://i.pinimg.com/originals/e1/46/1c/e1461c0552e021182925f50d54461898.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466d"
+    }
+  ],
+  "discription": "The iconic Levi's 501 jeans, made from 100% cotton denim.",
+  "availability": true,
+  "price": 50,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a7"
+  },
+  "title": "Nike Air Jordan 1 Mid",
+  "images": [
+    "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/AJ1MID-060-pNK-M_AJ1MID-060_PROD.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466d"
+    }
+  ],
+  "discription": "The classic Nike Air Jordan 1 Mid, in a variety of colors.",
+  "availability": true,
+  "price": 100,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a8"
+  },
+  "title": "Adidas Superstar Sneakers",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0024/2869/2985/products/adidas-originals-superstar-shoes-white-black-gold-m20324_large.jpg?v=1563581490"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466d"
+    }
+  ],
+  "discription": "The iconic Adidas Superstar sneakers, in a variety of colors.",
+  "availability": true,
+  "price": 75,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6a9"
+  },
+  "title": "Dolce & Gabbana T-Shirt",
+  "images": [
+    "https://www.dolcegabbana.com/media/catalog/product/cache/e4d65332092897160c48025e478d52b0/d/o/dolce-gabbana-logo-t-shirt-black-612077.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466d"
+    }
+  ],
+  "discription": "A black Dolce & Gabbana t-shirt with the brand's logo.",
+  "availability": true,
+  "price": 200,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6aa"
+  },
+  "title": "Louis Vuitton Bag",
+  "images": [
+    "https://www.louisvuitton.com/eng-us/products/neverfull-mm-monogram-nvprod1760496v"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466d"
+    }
+  ],
+  "discription": "A classic Louis Vuitton bag in monogram canvas.",
+  "availability": true,
+  "price": 1500,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ab"
+  },
+  "title": "Nike Air Jordan 1 Mid",
+  "images": [
+    "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/AJ1MID-060-pNK-M_AJ1MID-060_PROD.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466e"
+    }
+  ],
+  "discription": "The classic Nike Air Jordan 1 Mid, in a variety of colors.",
+  "availability": true,
+  "price": 100,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ac"
+  },
+  "title": "Adidas Superstar Sneakers",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0024/2869/2985/products/adidas-originals-superstar-shoes-white-black-gold-m20324_large.jpg?v=1563581490"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466e"
+    }
+  ],
+  "discription": "The iconic Adidas Superstar sneakers, in a variety of colors.",
+  "availability": true,
+  "price": 75,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ad"
+  },
+  "title": "Nike Air Force 1 Low",
+  "images": [
+    "https://cdn.nike.com/assets/images/t/PDP_1280_v1/f_auto/AH8462-100_AJF1_PROD.png"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466e"
+    }
+  ],
+  "discription": "The classic Nike Air Force 1 Low, in a variety of colors.",
+  "availability": true,
+  "price": 90,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ae"
+  },
+  "title": "Vans Old Skool Sneakers",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0024/2869/2985/products/vans-old-skool-black-white-v003_large.jpg?v=1563581490"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466e"
+    }
+  ],
+  "discription": "The iconic Vans Old Skool sneakers, in a variety of colors.",
+  "availability": true,
+  "price": 60,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6af"
+  },
+  "title": "Converse Chuck Taylor All Star Sneakers",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0024/2869/2985/products/converse-chuck-taylor-all-star-low-black-white-m9160_large.jpg?v=1563581490"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466e"
+    }
+  ],
+  "discription": "The iconic Converse Chuck Taylor All Star sneakers, in a variety of colors.",
+  "availability": true,
+  "price": 50,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b0"
+  },
+  "title": "Fenty Beauty Stunna Lip Paint",
+  "images": [
+    "https://www.fentybeauty.com/on/demandware.store/Sites-fentybeauty-Site/default/dw/product/images/Stunna-Lip-Paint/Fenty-Beauty-Stunna-Lip-Paint-Uncensored.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466f"
+    }
+  ],
+  "discription": "A long-lasting, high-pigment liquid lipstick that defines and accentuates the lips.",
+  "availability": true,
+  "price": 24.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b1"
+  },
+  "title": "Benefit Cosmetics Precisely, My Brow Pencil",
+  "images": [
+    "https://www.benefitcosmetics.com/on/demandware.store/Sites-benefitcosmetics-Site/default/dw/product/images/Precisely-My-Brow-Pencil/Benefit-Precisely-My-Brow-Pencil-3.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466f"
+    }
+  ],
+  "discription": "A micro-precise brow pencil that fills in and defines brows.",
+  "availability": true,
+  "price": 24,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b2"
+  },
+  "title": "Too Faced Better Than Sex Mascara",
+  "images": [
+    "https://www.toofaced.com/on/demandware.store/Sites-toofaced-Site/default/dw/product/images/Better-Than-Sex-Mascara/Too-Faced-Better-Than-Sex-Mascara-0.jpg"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466f"
+    }
+  ],
+  "discription": "A volumizing and lengthening mascara that gives lashes a dramatic boost.",
+  "availability": true,
+  "price": 29,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b3"
+  },
+  "title": "Clinique Dramatically Different Moisturizing Gel",
+  "images": [
+    "https://www.clinique.com/product/1687/7382/skin-care/moisturizers/dramatically-different-moisturizing-gel/gel"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466f"
+    }
+  ],
+  "discription": "A lightweight, oil-free moisturizer that hydrates and balances the skin.",
+  "availability": true,
+  "price": 27,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b4"
+  },
+  "title": "CeraVe Hydrating Facial Cleanser",
+  "images": [
+    "https://www.cerave.com/product/hydrating-facial-cleanser"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466f"
+    }
+  ],
+  "discription": "A gentle, non-comedogenic cleanser that removes dirt and oil without stripping the skin.",
+  "availability": true,
+  "price": 14.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b5"
+  },
+  "title": "Bath and Body Works White Barn Candle",
+  "images": [
+    "https://www.bathandbodyworks.com/product/33444776/white-barn-champagne-toast-3-wick-candle"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284670"
+    }
+  ],
+  "discription": "A luxurious, long-lasting candle that fills your home with a beautiful fragrance.",
+  "availability": true,
+  "price": 24.95,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b6"
+  },
+  "title": "IKEA KALLAX Shelf Unit",
+  "images": [
+    "https://www.ikea.com/us/en/p/kallax-shelf-unit-white-80275878/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284670"
+    }
+  ],
+  "discription": "A versatile and stylish shelf unit that can be used in any room of the house.",
+  "availability": true,
+  "price": 79.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b7"
+  },
+  "title": "AmazonBasics Weighted Blanket",
+  "images": [
+    "https://www.amazon.com/AmazonBasics-Weighted-Blanket-15-Pound/dp/B0757W3364"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284670"
+    }
+  ],
+  "discription": "A calming and relaxing weighted blanket that can help you sleep better.",
+  "availability": true,
+  "price": 59.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b8"
+  },
+  "title": "LEGO Creator Expert Taj Mahal",
+  "images": [
+    "https://www.lego.com/en-us/product/taj-mahal-21056"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284670"
+    }
+  ],
+  "discription": "A stunning and intricate LEGO set that is a must-have for any fan of architecture.",
+  "availability": true,
+  "price": 399.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6b9"
+  },
+  "title": "Philips Hue White Ambiance Lightstrip",
+  "images": [
+    "https://www.philips-hue.com/en-us/p/hue-white-ambiance-lightstrip-plus/8718696173219"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284670"
+    }
+  ],
+  "discription": "A smart light strip that can be used to create a variety of moods in your home.",
+  "availability": true,
+  "price": 69.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ba"
+  },
+  "title": "Logitech MX Master 3 Wireless Mouse",
+  "images": [
+    "https://www.logitech.com/en-us/products/mice/mx-master-3.html"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284672"
+    }
+  ],
+  "discription": "A high-performance wireless mouse that is perfect for productivity.",
+  "availability": true,
+  "price": 99.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6bb"
+  },
+  "title": "Apple Magic Keyboard",
+  "images": [
+    "https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-with-touch-id-for-mac"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284672"
+    }
+  ],
+  "discription": "A wireless keyboard that is designed to work seamlessly with your Mac or iPad.",
+  "availability": true,
+  "price": 99.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6bc"
+  },
+  "title": "Samsung M7 Smart Monitor",
+  "images": [
+    "https://www.samsung.com/us/televisions-displays/monitors/smart/m7-ls32am702un-4k-uhd-smart-monitor-with-wi-fi-silver/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284672"
+    }
+  ],
+  "discription": "A 4K smart monitor that can be used as a second screen for your laptop or PC, or as a standalone device for streaming movies and TV shows.",
+  "availability": true,
+  "price": 349.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6bd"
+  },
+  "title": "Epson EcoTank ET-2750 All-in-One Printer",
+  "images": [
+    "https://www.epson.com/usa/en/products/printers/inkjet/et-2750-ecotank-all-in-one-printer"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284672"
+    }
+  ],
+  "discription": "An inkjet printer that is affordable and easy to use.",
+  "availability": true,
+  "price": 129.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6be"
+  },
+  "title": "Canon imageCLASS LBP6230dw Monochrome Laser Printer",
+  "images": [
+    "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/black-and-white/imageclass-lbp6230dw"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284672"
+    }
+  ],
+  "discription": "A fast and reliable laser printer that is perfect for printing documents.",
+  "availability": true,
+  "price": 199.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6bf"
+  },
+  "title": "Stabilo Point 88 Fineliner Pens",
+  "images": [
+    "https://www.stabilo.com/int/en/products/fineliner/point-88/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284673"
+    }
+  ],
+  "discription": "A set of 88 fineliner pens in a variety of colors.",
+  "availability": true,
+  "price": 19.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c0"
+  },
+  "title": "Moleskine Classic Notebook",
+  "images": [
+    "https://www.moleskine.com/us/en/products/classic-notebook"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284673"
+    }
+  ],
+  "discription": "A classic hardcover notebook with blank pages.",
+  "availability": true,
+  "price": 12.95,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c1"
+  },
+  "title": "Pilot G2 Gel Pens",
+  "images": [
+    "https://www.pilotpen.com/en-us/products/gel-pens/g2/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284673"
+    }
+  ],
+  "discription": "A smooth-writing gel pen that comes in a variety of colors.",
+  "availability": true,
+  "price": 9.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c2"
+  },
+  "title": "Leuchtturm1917 Notebook",
+  "images": [
+    "https://www.leuchtturm1917.com/en/products/notebooks/medium-a5/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284673"
+    }
+  ],
+  "discription": "A high-quality hardcover notebook with dotted pages.",
+  "availability": true,
+  "price": 19.95,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c3"
+  },
+  "title": "Zebra Mildliner Highlighters",
+  "images": [
+    "https://www.zebrapen.com/en-us/products/highlighters/mildliner/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284673"
+    }
+  ],
+  "discription": "A set of 15 highlighters with a unique mild color palette.",
+  "availability": true,
+  "price": 19.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c4"
+  },
+  "title": "Fitbit Charge 5 Fitness Tracker",
+  "images": [
+    "https://www.fitbit.com/global/en/products/charge-5"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284678"
+    }
+  ],
+  "discription": "A fitness tracker that tracks your heart rate, steps, sleep, and more.",
+  "availability": true,
+  "price": 179.95,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c5"
+  },
+  "title": "Apple Watch Series 7",
+  "images": [
+    "https://www.apple.com/watch/buy/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284678"
+    }
+  ],
+  "discription": "A smartwatch that tracks your heart rate, steps, sleep, and more, and can also be used to make calls, send messages, and listen to music.",
+  "availability": true,
+  "price": 399.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c6"
+  },
+  "title": "Samsung Galaxy Watch4",
+  "images": [
+    "https://www.samsung.com/us/smartphones/wearables/samsung-galaxy-watch4/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284678"
+    }
+  ],
+  "discription": "A smartwatch that tracks your heart rate, steps, sleep, and more, and can also be used to control your smart home devices.",
+  "availability": true,
+  "price": 249.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c7"
+  },
+  "title": "NordicTrack Treadmill",
+  "images": [
+    "https://www.nordictrack.com/treadmills/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284678"
+    }
+  ],
+  "discription": "A treadmill that allows you to walk, run, or jog at a variety of speeds.",
+  "availability": true,
+  "price": 999.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c8"
+  },
+  "title": "Bowflex C6 Indoor Cycling Bike",
+  "images": [
+    "https://www.bowflex.com/indoor-cycling-bikes/c6/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284678"
+    }
+  ],
+  "discription": "An indoor cycling bike that allows you to simulate riding outdoors.",
+  "availability": true,
+  "price": 799.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6c9"
+  },
+  "title": "Nike Air Zoom Pegasus 39 Running Shoes",
+  "images": [
+    "https://www.nike.com/t/air-zoom-pegasus-39-mens-running-shoe-5Z3h0b/CW7355-001"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284679"
+    }
+  ],
+  "discription": "A lightweight and responsive running shoe that is perfect for everyday training.",
+  "availability": true,
+  "price": 120,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ca"
+  },
+  "title": "Adidas Ultraboost 22 Running Shoes",
+  "images": [
+    "https://www.adidas.com/us/ultraboost-22-shoes/GZ0197.html"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284679"
+    }
+  ],
+  "discription": "A comfortable and supportive running shoe that provides energy return with every stride.",
+  "availability": true,
+  "price": 180,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6cb"
+  },
+  "title": "Puma RS-X3 Puzzle Sneaker",
+  "images": [
+    "https://www.puma.com/us/en/pd/rs-x3-puzzle-mens-sneakers/373653.html"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284679"
+    }
+  ],
+  "discription": "A stylish and comfortable sneaker that is perfect for everyday wear.",
+  "availability": true,
+  "price": 90,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6cc"
+  },
+  "title": "Nike LeBron 19 Basketball Shoes",
+  "images": [
+    "https://www.nike.com/t/lebron-19-mens-basketball-shoe-847339/DC9340-001"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284679"
+    }
+  ],
+  "discription": "A high-performance basketball shoe that provides support and comfort for explosive plays.",
+  "availability": true,
+  "price": 180,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6cd"
+  },
+  "title": "Wilson A2000 Fastpitch Softball Glove",
+  "images": [
+    "https://www.wilson.com/en-us/ballgloves/fastpitch-softball/a2000/a2000-fastpitch-softball-glove"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf284679"
+    }
+  ],
+  "discription": "A high-quality softball glove that provides a secure grip and a comfortable fit.",
+  "availability": true,
+  "price": 250,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6ce"
+  },
+  "title": "Dyson V11 Absolute Cordless Vacuum Cleaner",
+  "images": [
+    "https://www.dyson.com/en-us/products/vacuum-cleaners/stick/v11-absolute-extra"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28467a"
+    }
+  ],
+  "discription": "A powerful cordless vacuum cleaner that is perfect for cleaning all types of floors.",
+  "availability": true,
+  "price": 599.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6cf"
+  },
+  "title": "Shark IQ Robot Vacuum",
+  "images": [
+    "https://www.sharkclean.com/products/robot-vacuums/iq-robot-vacuum"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28467a"
+    }
+  ],
+  "discription": "A self-cleaning robot vacuum that cleans your floors without any help from you.",
+  "availability": true,
+  "price": 399.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d0"
+  },
+  "title": "Breville The Barista Express Espresso Machine",
+  "images": [
+    "https://www.breville.com/us/en/products/espresso/the-barista-express.html"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28467a"
+    }
+  ],
+  "discription": "A high-end espresso machine that makes barista-quality coffee at home.",
+  "availability": true,
+  "price": 1199.95,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d1"
+  },
+  "title": "Ninja Foodi 10-in-1 Pressure Cooker & Air Fryer",
+  "images": [
+    "https://www.ninjakitchen.com/products/foodi-pressure-cooker-and-air-fryer"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28467a"
+    }
+  ],
+  "discription": "A versatile kitchen appliance that can be used to cook a variety of dishes, including pressure-cooked meals, air-fried foods, and more.",
+  "availability": true,
+  "price": 299.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d2"
+  },
+  "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+  "images": [
+    "https://instantpot.com/products/duo-7-in-1-electric-pressure-cooker"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28467a"
+    }
+  ],
+  "discription": "A popular pressure cooker that is easy to use and makes cooking a variety of dishes quick and easy.",
+  "availability": true,
+  "price": 99.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d3"
+  },
+  "title": "LEGO Harry Potter Hogwarts Castle",
+  "images": [
+    "https://www.lego.com/en-us/product/hogwarts-castle-71043"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466b"
+    }
+  ],
+  "discription": "A detailed LEGO set of Hogwarts Castle, featuring over 6,000 pieces and 4 minifigures.",
+  "availability": true,
+  "price": 499.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d4"
+  },
+  "title": "Nintendo Switch OLED Model",
+  "images": [
+    "https://www.nintendo.com/en-ca/switch/oled-model/"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466b"
+    }
+  ],
+  "discription": "A newer version of the Nintendo Switch console, with a larger OLED display and improved speakers.",
+  "availability": true,
+  "price": 349.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d5"
+  },
+  "title": "Barbie Dreamhouse",
+  "images": [
+    "https://www.amazon.com/Barbie-Dreamhouse-3-Story-House-Accessories/dp/B074186R49"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466b"
+    }
+  ],
+  "discription": "A three-story dollhouse with over 70 accessories, including a car, swimming pool, and slide.",
+  "availability": true,
+  "price": 299.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d6"
+  },
+  "title": "Hot Wheels Monster Trucks Megalodon",
+  "images": [
+    "https://www.walmart.com/ip/Hot-Wheels-Monster-Trucks-Megalodon-Remote-Controlled-Vehicle/479849027"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466b"
+    }
+  ],
+  "discription": "A large, remote-controlled monster truck with a shark-inspired design.",
+  "availability": true,
+  "price": 49.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+},
+{
+  "_id": {
+    "$oid": "64df7b11f0cb555665bfc6d7"
+  },
+  "title": "Scrabble",
+  "images": [
+    "https://www.hasbro.com/common/images/product/G7559/G7559_hero.png"
+  ],
+  "category": [
+    {
+      "$oid": "64df2704412b2d79bf28466b"
+    }
+  ],
+  "discription": "A classic word game that is perfect for the whole family.",
+  "availability": true,
+  "price": 19.99,
+  "totalNumberOfProduct": 10,
+  "numberOfProductSold": 0
+}]

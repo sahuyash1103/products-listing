@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284673"
+  },
+  "categoryName": "Stationery",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284670"
+  },
+  "categoryName": "Homedécor & Maintenance",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284675"
+  },
+  "categoryName": "Pet Care",
+  "availability": false
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466b"
+  },
+  "categoryName": "Games & Toys",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466a"
+  },
+  "categoryName": "Electronics & Gadgets",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28467a"
+  },
+  "categoryName": "Household Items",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466d"
+  },
+  "categoryName": "Fashion & Apparel",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284671"
+  },
+  "categoryName": "Furniture & Decor",
+  "availability": false
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466c"
+  },
+  "categoryName": "Entertainment & Media",
+  "availability": false
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466e"
+  },
+  "categoryName": "Footwear & Shoes",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf28466f"
+  },
+  "categoryName": "Cosmetics & Body Care",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284678"
+  },
+  "categoryName": "Healthcare & Fitness",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284679"
+  },
+  "categoryName": "Sports Products",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284672"
+  },
+  "categoryName": "Office Equipment",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284674"
+  },
+  "categoryName": "Hand & Power Tools",
+  "availability": false
+},
+{
+  "_id": {
+    "$oid": "64df2704412b2d79bf284676"
+  },
+  "categoryName": "Food & Beverage",
+  "availability": false
+}]
