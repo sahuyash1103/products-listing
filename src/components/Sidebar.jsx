@@ -88,7 +88,16 @@ margin: 0 5px;
 }
 `;
 
-const SidebarApplyButton = styled.button`
+const ButtonsContainer = styled.div`
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+width: 100%;
+
+`;
+
+const SidebarButton = styled.button`
 font-size: 16px;
 font-weight: 500;
 border: 1px solid gray;
@@ -111,8 +120,14 @@ function Sidebar() {
   const [categoriesChecked, setCategoriesChecked] = React.useState([]);
   const [priceLessThen, setPriceLessThen] = React.useState(0);
 
-  const setfilter = () => {
+  const setFilter = () => {
     setSearchFilters({ priceLessThen, categories: categoriesChecked });
+  }
+
+  const clearFilter = () => {
+    setSearchFilters({ priceLessThen: 0, categories: [] });
+    setCategoriesChecked([]);
+    setPriceLessThen(0);
   }
 
   const handleCategoryChange = (checked, categoryId) => {
@@ -135,6 +150,7 @@ function Sidebar() {
                   type='checkbox'
                   id={category.categoryName}
                   onChange={(e) => handleCategoryChange(e.target.checked, category.categoryName)}
+                  checked={categoriesChecked.includes(category.categoryName)}
                 />
                 <SidebarLabel htmlFor={category.categoryName}>
                   {category.categoryName}
@@ -156,7 +172,10 @@ function Sidebar() {
           />
         </SidebarPriceLabel>
       </SidebarContent>
-      <SidebarApplyButton onClick={setfilter}>Apply</SidebarApplyButton>
+      <ButtonsContainer>
+        <SidebarButton onClick={clearFilter}>Clear</SidebarButton>
+        <SidebarButton onClick={setFilter}>Apply</SidebarButton>
+      </ButtonsContainer>
     </SidebarContainer>
   )
 }
