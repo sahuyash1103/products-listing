@@ -108,7 +108,10 @@ function ProductList() {
             <PaginatedContent>
                 {paginatedItems.length > 0 &&
                     paginatedItems.map((product, index) => (
-                        <ProductListTile key={index} image={"https://via.placeholder.com/150"}
+                        <ProductListTile
+                            key={index}
+                            image={"https://via.placeholder.com/150"}
+                            // image={product.images[0]}
                             title={product.title}
                             description={product.description || "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam iusto necessitatibus velit, molestiae voluptates aperiam."}
                             price={product.price}
@@ -118,9 +121,9 @@ function ProductList() {
             </PaginatedContent>
             <Pagination>
                 <PageLink
-                    onClick={page.page < page.total_pages ? handlePageChangeNext : null}
+                    onClick={page.page <= page.total_pages && handlePageChangePrevious}
                 >
-                    Next
+                    Previous
                 </PageLink>
                 <PageNumbers>
                     {
@@ -136,9 +139,9 @@ function ProductList() {
                     }
                 </PageNumbers>
                 <PageLink
-                    onClick={page.page <= page.total_pages && handlePageChangePrevious}
+                    onClick={page.page < page.total_pages ? handlePageChangeNext : null}
                 >
-                    Previous
+                    Next
                 </PageLink>
             </Pagination>
         </ProductListContainer >
