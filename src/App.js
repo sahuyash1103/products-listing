@@ -1,13 +1,12 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import Layout from "./components/Layout";
+import { StateProvider } from "./context/search-context";
 
 function App() {
   return (
-    <>
-      <Navbar />
-      <Footer />
-    </>
+    <StateProvider>
+      <Layout />
+    </StateProvider>
   );
 }
 

@@ -1,57 +1,83 @@
 import React from 'react'
 import styled from 'styled-components'
 import { BsSearch } from 'react-icons/bs'
+import { SearchContext } from '../context/search-context';
 
 const Nav = styled.nav`
 display: flex;
-justify-content: space-between;
-gap: 500px;
+justify-content: left;
+gap: 25%;
 align-items: center;
-padding: 0 5px;
 height: 60px;
 width: 100%;
-position: fixed;
-background-color: #1e202e;
-border-bottom: 1px solid #ccc;
-`
+padding: 0 50px;
+background-color: #fff;
+`;
 
 const Title = styled.h1`
-display: inline-block;
-font-size: 24px;
+font-size: 30px;
 font-weight: 600;
-margin: 0 50px;
+margin: 0;
 padding: 0;
-color: #fff;
-`
+color: #646e95;
+`;
 
-const SearchWrapper = styled.div`
-border: 1px solid #fff;
-border-radius: 4px;
-margin: 2px 50px;
+const SearchContainer = styled.div`
+display: flex;
+align-items: center;
+border: 1px solid #ccc;
+border-radius: 5px;
+margin-right: 50px;
+background-color: #fff;
+padding: 2px;
 `;
 
 const SearchInput = styled.input`
 border: none;
 outline: none;
-font-size: 18px;
 padding: 5px 10px;
+font-size: 18px;
 width: 300px;
-`
+height: 35px;
+`;
 
-const SearchIcon = styled.i``;
+const SearchButton = styled.span`
+display: flex;
+align-items: center;
+padding: 5px 10px;
+height: 35px;
+background-color: #646e95;
+cursor: pointer;
+color: #fff;
+border-radius: 4px;
+`;
+
 
 function Navbar() {
-  return (
-    <Nav>
-      <Title>Product Listing</Title>
-      <SearchWrapper>
-        <SearchInput type="text" placeholder="Search" />
-        <SearchIcon>
-          <BsSearch />
-        </SearchIcon>
-      </SearchWrapper>
-    </Nav>
-  )
+    const { setSearchTerm } = React.useContext(SearchContext);
+    const [search, setSearch] = React.useState("");
+    const handleSearch = (e) => {
+        e.preventDefault();
+        setSearchTerm(search);
+    }
+    return (
+        <Nav>
+            <Title>Product Listing</Title>
+            <SearchContainer>
+                <SearchInput
+                    type="text"
+                    placeholder="Search..."
+                    value={search}
+                    onChange={(e) => setSearch(e.target.value)}
+                    onKeyDown={(e) => {
+                        if (e.key === "Enter")
+                            handleSearch(e)
+                    }}
+                />
+                <SearchButton onClick={handleSearch}><BsSearch size={"16px"} /></SearchButton>
+            </SearchContainer>
+        </Nav>
+    )
 }
 
 export default Navbar
